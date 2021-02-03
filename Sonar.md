@@ -1,4 +1,4 @@
-# SONAR
+# SONAR 
 
 ## O que é?
 * Plataforma _open source_ que permite gerenciar a qualidade do código;
